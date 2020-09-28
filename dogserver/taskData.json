@@ -1,0 +1,11 @@
+{ "dailyTasks": [
+    {"text": "Morning Walk", "complete": false},
+    {"text": "Breakfast", "complete": false},
+    {"text": "Soak Dinner", "complete": false},
+    {"text": "Longer Walk or Play Session", "complete": false},
+    {"text": "Dinner", "complete": false},
+    {"text": "Evening Walk", "complete": false},
+    {"text": "Late Night Walk", "complete": false},
+    {"text": "Soak Breakfast", "complete": false}
+    ]   
+}
